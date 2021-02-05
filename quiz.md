@@ -5,7 +5,7 @@ Part 1:
 1. animo - masculine, dative or ablative, singular  
 1. uirgine - feminine, ablative, singular  
 1. parentes - masculine, nominative or accusative, plural  
-1. ad uxorem - "to the wife" feminine, accusative, singular  
+1. ad uxorem - "to the wife" feminine, accusative, singular  return
 Part 2:
 
 1. petivisset - pluperfect, active, subjunctive, 3rd person, singular; petivissent  
