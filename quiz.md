@@ -5,7 +5,7 @@ Part 1:
 1. uirgine - feminine, ablative, singular  
 1. parentes - masculine, nominative or accusative, plural  
 1. ad uxorem - "to the wife" feminine, accusative, singular  
-/nPart 2:
+\Part 2:
 1. petivisset - pluperfect, active, subjunctive, 3rd person, singular; petivissent  
 1. necauit - perfect, active, indicative, 3rd person, singular; necarunt
 1. necari - present, passive, (infinitive) ???  
@@ -13,7 +13,7 @@ Part 1:
 1. coepit - perfect, active, indicative, 3rd person, singular; coeperunt  
 1. interfecisset - pluperfect, active, subjunctive, 3rd person, singular; interfecissent  
 1. misit - perfect, active, indicative, 3rd person, singular; miserunt  
-/nPart 3:
+\Part 3:
 1.  
 2. 
 3. 
