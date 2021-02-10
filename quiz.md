@@ -26,5 +26,5 @@ Part 3:
 3. interfecti sunt
 4. interfecerit
 5. vidit  ❌
-6. maritavit ❌
+6. duxit ❌
 7. rogabat
