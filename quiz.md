@@ -3,7 +3,7 @@
 Part 1:
 
 1. filiam - feminine, accusative, singular  
-1. in coniugium - "in marriage" neuter, nominative or accusative, singular  ❌
+1. in coniugium - "into marriage" neuter, accusative, singular  ❌
 1. animo - masculine, dative or ablative, singular  
 1. uirgine - feminine, ablative, singular  
 1. parentes - masculine, nominative or accusative, plural  
@@ -25,6 +25,6 @@ Part 3:
 2. interficiebantur
 3. interfecti sunt
 4. interfecerit
-5. viderit  ❌
+5. vidit  ❌
 6. maritavit ❌
 7. rogabat
