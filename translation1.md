@@ -1,16 +1,16 @@
 Part A:  
 Hercules cum in hospitium ad Dexamenum regem *uenisset*  
 >eiusque filiam Deianiram *deuirginasset*,  
-*volebat* eam uxorem *ducere*.  
->cum Hercules *abesset*,  
-centaurus Eurytion *petit* Deianiram uxorem.  
->quia pater eius centaurum *timebat*,  
-*pollicitus est* se daturum.  
->Tempore certo,  
-*venit* centaurus cum fratribus ad nuptias.  
->Hercules *interuenit*   
-et centaurum *interfecit*,  
->Deianiram *abduxit*.    
+>>*volebat* eam uxorem *ducere*.  
+>>>cum Hercules *abesset*,  
+>>>>centaurus Eurytion *petit* Deianiram uxorem.  
+>>>>>quia pater eius centaurum *timebat*,  
+>>>>>>*pollicitus est* se daturum.  
+>>>>>>>Tempore certo,  
+>>>>>>>*venit* centaurus cum fratribus ad nuptias.  
+>>>>>>>>Hercules *interuenit*   
+>>>>>>>>>et centaurum *interfecit*,  
+>>>>>>>>>>Deianiram *abduxit*.    
 Part B:  
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
 Dexamenus, dexameni, m. - Dexamenum is acc. sing.   
