@@ -11,6 +11,7 @@ Hercules cum in hospitium ad Dexamenum regem *uenisset*
 >>>>>>>>Hercules *interuenit*   
 >>>>>>>>>et centaurum *interfecit*,  
 >>>>>>>>>>Deianiram *abduxit*.    
+
 Part B:  
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
 Dexamenus, dexameni, m. - Dexamenum is acc. sing.   
