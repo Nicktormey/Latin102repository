@@ -25,5 +25,6 @@ Deianira, Deianirae, f. - Deianiram is acc. sing.
 3rd person, singular, perfect, passive, indicative - polliceor  
 1. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 Tempore certo is in the ablative case because it denotes a certain period in time.   
+
 Part C:  
 Hercules went with King Dexamene into hospitality and deflowered his daughter, Deianira, and he wanted to make her his wife. While Hercules was away, the centaur Eurytion asked for Deianira to be his wife. Because her father was afraid of the centaur, he promised to give her. At the settled time, the centaur went with his brothers to the weddings. Hercules intervened and killed the centaur, and he took Deianira away. 
