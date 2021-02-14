@@ -3,6 +3,7 @@ Philoctetes built a pyre for Hercules,
 
 Hercules hurled Lichas,
 >who had brought the poisoned garment,  
+
 into the see.  
 
 In Egypt,
