@@ -7,9 +7,11 @@ Hercules
 
 *volebat* eam uxorem *ducere*.  
 
+
 >cum Hercules *abesset*,  
 
 centaurus Eurytion *petit* Deianiram uxorem.  
+ 
  
 >quia pater eius centaurum *timebat*,  
 
@@ -17,7 +19,9 @@ centaurus Eurytion *petit* Deianiram uxorem.
 
 >se daturum.  
 
+
 Tempore certo, *venit* centaurus cum fratribus ad nuptias.  
+
 
 Hercules *interuenit* et centaurum *interfecit*,  
 >Deianiram *abduxit*.    
