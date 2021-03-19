@@ -4,39 +4,57 @@ Deianira,
 >uxor Herculis,  
 
 flumen magnum, 
->cui nomen Evenus erat,   
+>cui nomen Evenus *erat*,   
 
-non poterat transire, 
+*non poterat transire*, 
 et centaurum Nessum, 
->qui filius Ixionis et Nubis erat,   
+>qui filius Ixionis et Nubis *erat*,   
 
-auxilium rogavit. 
-Hic Deianiram sublatam in flumine ipso uiolare uoluit. 
-huc Hercules cum interuenisset
-et Deianira cum fidem eius implorasset,
-Nessum sagittis confixit.
+auxilium *rogavit*. 
+Hic Deianiram *sublatam* in flumine ipso *uiolare uoluit*. 
+huc Hercules cum *interuenisset*
+et Deianira cum fidem eius *implorasset*,
+Nessum sagittis *confixit*.
 
->ille moriens,   
+>ille *moriens*,   
 
-cum sciret sagittas Hydrae Lernaeae felle 
->tinctas magnam vim habere,   
+cum *sciret* sagittas Hydrae Lernaeae felle 
+>tinctas magnam vim *habere*,   
 
-sanguinem suum exceptum Deianirae dedit
-et id philtrum esse dixit.
+sanguinem suum *exceptum* Deianirae *dedit*
+et id philtrum *esse dixit*.
 
 B  
-1. a
-2. a
-3. a
-4. a
-5. a
-6. a
-7. a
-8. a
-9. a
+
+1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
+antecedent = flumen - neuter singular - dative - it is dative because it functions as an indirect object within the realative clause  
+
+2. Identify the form of transire. Explain why you placed it in the clause you chose.
+tranisre is a present active infinitve - I put it in the independent clause because it made sense within the context of the sentence & story.  
+
+3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
+feminine, accusative, singular, indicative, active -  
+
+4. Identify the form of sagittis. Why does Hyginus use this case?  
+sagittis is dative and plural - it is in this case because the arrows are the direct object  
+
+5. Identify the form of moriens.  
+moriens is a masculine, nominitive, singular, indicative, passive participle.  
+
+6. Identify felle. Why does Hyginus use this case?  
+felle is a noun in the ablative singular. He uses this case to express that the arrows were dipped *in* the poison    
+
+7. Identify the form of tinctas.  
+tinctas is a feminine, accusative, plural, active, indicative  
+
+8. Identify the form of exceptum.  
+exceptum is an accusative nueter singular indicative active participle.
+
+9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.  
+moriens  
 
 C  
 
 Deianira, wife of Hercules, was not able to traverse the large river, which was named Evenus, and the centaur Nessus, who was the son of Ixion and Nubes, asked to help. He lifted Deianira up in the very same river with the intent to violate her. Because of this, Hercules went to this place and intervened, and Deianira begged his trust with tears, and he pierced Nessus with arrows.
 
-Because he knew he was dying, he dipped arrows in the poison of the Lernaean Hydra so that they hold great potentcy. He gave his blood to Deianira and he told her it was a love potion.
+Because he knew he was dying, he dipped arrows in the poison of the Lernaean Hydra so that they hold great potentcy. He gave his blood to Deianira and she received and he told her it was a love potion.
