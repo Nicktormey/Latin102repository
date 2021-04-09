@@ -1,4 +1,5 @@
-> Infans cum *esset*,  
+> Infans cum *esset*, 
+ 
 dracones duos duabus manibus *necauit*,  
 
 >quos Iuno *miserat*,  
