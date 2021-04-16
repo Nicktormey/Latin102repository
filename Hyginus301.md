@@ -16,3 +16,9 @@ Leonem Nemeum,
 
 >cuius pellem pro tegumento *habuit*.  
 
+itaque quicquid postea sagittis fixerat,  
+mortem non effugiebat,  
+unde postea et ipse periit in Phrygia.  
+mortem - death  
+non - no
+effugiebat - escape
