@@ -1,32 +1,32 @@
 *Dictionary skills, 1: noun-adjective pairs*
 
-1. uno die
-unus, una, unum  
+1. uno die  
+unus, una, unum    
 dies, diei, m. or f.  
-2.  totum stercus
-totus, tota, totum
-stercus, stercoris, n.
-3. ceruum ferocem
-ceruus, cerui, m.
-ferox, ferocis
-4. tantam vim
-tantus, tanta, tantum
-vis, vis, f.
-5. sagittas suas
-sagitta, sagittae, f. 
-suus, sua, suum
-6. cornibus aureis
-cornu, cornus, n.
-aureus, aurea, aureum
-7. carne humana
-caro, carnis f.
-hūmānus, hūmāna, hūmānum
-8. draconem immanem
-draco, draconis, m.
-immanis, immane
-9. mala aurea
-malus, mala, malum
-aurea, aureae, f.
+2.  totum stercus  
+totus, tota, totum  
+stercus, stercoris, n.   
+3. ceruum ferocem  
+ceruus, cerui, m.  
+ferox, ferocis  
+4. tantam vim  
+tantus, tanta, tantum  
+vis, vis, f.  
+5. sagittas suas  
+sagitta, sagittae, f.   
+suus, sua, suum  
+6. cornibus aureis  
+cornu, cornus, n.  
+aureus, aurea, aureum  
+7. carne humana  
+caro, carnis f.  
+hūmānus, hūmāna, hūmānum  
+8. draconem immanem  
+draco, draconis, m.  
+immanis, immane  
+9. mala aurea  
+malus, mala, malum  
+aurea, aureae, f.  
 
 *Dictionary skills, 2: verb forms*
 
@@ -58,7 +58,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 2. Hydram Lernaeam: Lernaeus, Lernea, Lerneum  
 3. aprum Erymanthium: Erymanthius, Erymanthia, Erymanthium   
 4. aves Stymphalides: Stymphalidis, Stymphalide  
-5. Hippolyten Amazonam: Amazonus, Amazona, Amazonum (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
+5. Hippolyten Amazonam: Amazonus, Amazona, Amazonum  
 
 *Comparative and superlative forms*
 
