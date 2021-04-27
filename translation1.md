@@ -1,8 +1,11 @@
 **Needs revisions**
 
 Part A:  ❌
+
 Hercules
+
 >cum in hospitium ad Dexamenum regem *uenisset*  
+
 >eiusque filiam Deianiram *deuirginasset*,  
 
 *volebat* eam uxorem *ducere*.  
@@ -23,18 +26,19 @@ centaurus Eurytion *petit* Deianiram uxorem.
 Tempore certo, *venit* centaurus cum fratribus ad nuptias.  
 
 
-Hercules *interuenit* et centaurum *interfecit*,  
->Deianiram *abduxit*.    
+Hercules *interuenit* et centaurum *interfecit*,   ❌
+
+>Deianiram *abduxit*.     ❌
 
 Part B:  
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
-Dexamenus, Dexameni, m. - Dexamenum is acc. sing.    👍 *Go ahead and capitalize gen.s. as well as nom.s. in dictionary entry*
+Dexamenus, Dexameni, m. - Dexamenum is acc. sing. 
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
 Deianira, Deianirae, f. - Deianiram is acc. sing.   
 1. Identify the form abesset, and explain why it is this tense and mood.
-3rd person, singular, imperfect, active, subjunctive - imperfect because it is in a secondary sequence that takes place at the same time or later than the subordinate clause - subjuctive because it expresses circumstance, not time.  ❌
+3rd person, singular, imperfect, active, subjunctive - imperfect because it is in a secondary sequence that takes place at the same time or later than the subordinate clause - subjuctive because it expresses circumstance, not time.
 1. Identify the form uenisset, and explain why it is this tense and mood.
-3rd person, singular, pluperfect, active, subjuctive - pluperfect because it is in the secondary sequence that takes place earlier than the subordinate clause - subjuctive because it expresses circumstance, not time. ❌
+3rd person, singular, pluperfect, active, subjuctive - pluperfect because it is in the secondary sequence that takes place earlier than the subordinate clause - subjuctive because it expresses circumstance, not time. 
 1. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 3rd person, singular, perfect, passive, indicative - polliceor  
 1. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
