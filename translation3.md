@@ -22,13 +22,13 @@ Iove is ablative. Participle
 What case is stercus, and why is it in that case?  
 accusative because it is what is physically being washed.  
 Identify the form of the adjective maiorem (gender, case, number, degree).  
-feminine, accusative, singular, 
+feminine, accusative, singular, greater  
 Explain the construction of the verbal unit flumine admisso.  
-
-What are the gender, number, case, and antecedent of qui?  
-
+flumine is ablative, and admisso is an ablative participle, so "let in the river"
+What are the gender, number, case, and antecedent of qui?   
+masculine, plural, nominative, and equos  
 What Latin verb form has to be understood in the clause that runs from equorum to Dinus?  
-*nomina*, as it shows that the horses names are what is being listed.  
+*nomina*, as it shows that the horses names are what is being listed.   
 
 C. Literary commentary  
 
