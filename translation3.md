@@ -39,4 +39,5 @@ C. Literary commentary
 
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
-1. 
+1. I find Hyginus's use of the verb "*vescebantur*" to be worth looking into. It is the third-person indicative imperfect plural active of *vescor*, meaning both "eat" and "feed upon." I feel that horses actively "feeding upon" human meat is more intimidating than for them to simply "eat" it. This futhers the dangerous nature of Hercules's deed and makes his triumph more impressive. 
+2. The word order of the clause *ex Creta insula Mycenis vivum adduxit* also causes intrigue. I believe that the placement of the adjective *vivum* towards the end of the sentence is done intentionally. This is because *vivum*, the masculine, accusative, singular form of *vivus* reveals that the bull (*taurum*) is alive when brought to Mycenae. Because this is more difficult than simply killing the bull, the magnitude of Hercules's achievment is realized. 
