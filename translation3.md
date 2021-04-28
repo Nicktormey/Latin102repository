@@ -22,17 +22,17 @@ equorum autem *nomina* Podargus Lampon Xanthus Dinus.
 
 B. Grammatical questions  
 
-In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase  
+1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase  
 Iove is ablative. Participle
-What case is stercus, and why is it in that case?  
+2. What case is stercus, and why is it in that case?  
 accusative because it is what is physically being washed.  
-Identify the form of the adjective maiorem (gender, case, number, degree).  
+3. Identify the form of the adjective maiorem (gender, case, number, degree).  
 feminine, accusative, singular, greater  
-Explain the construction of the verbal unit flumine admisso.  
+4. Explain the construction of the verbal unit flumine admisso.  
 flumine is ablative, and admisso is an ablative participle, so "let in the river"
-What are the gender, number, case, and antecedent of qui?   
+5. What are the gender, number, case, and antecedent of qui?   
 masculine, plural, nominative, and equos  
-What Latin verb form has to be understood in the clause that runs from equorum to Dinus?  
+6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?  
 *nomina*, as it shows that the horses names are what is being listed.   
 
 C. Literary commentary  
