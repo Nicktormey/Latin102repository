@@ -59,17 +59,17 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 1. Leonem Nemeum: Nemeus, Nemea, Nemeum  
 2. Hydram Lernaeam: Lernaeus, Lernea, Lerneum  
 3. aprum Erymanthium: Erymanthius, Erymanthia, Erymanthium   
-4. aves Stymphalides: Stymphalidis, Stymphalide   ❌ **This one is tricky!**
+4. aves Stymphalides: Stymphalis, Stymphalidis   ❌ **This one is tricky!**
 5. Hippolyten Amazonam: Amazonus, Amazona, Amazonum  
 
 *Comparative and superlative forms*
 
-1. The Hydra killed passers by with a great blowing of his poisonous breath. - cum afflatu magno  ❌ **Good adj/noun agreement, but no preposition needed to express means/instrument in Latin.**
-2. The Hydra killed passers by with a greater blowing of his poisonous breath. - cum afflatu maiore  
-3. The Hydra killed passers by with the greatest blowing of his poisonous breath. - cum afflatu maximo  
+1. The Hydra killed passers by with a great blowing of his poisonous breath. - afflatu magno  ❌ **Good adj/noun agreement, but no preposition needed to express means/instrument in Latin.**
+2. The Hydra killed passers by with a greater blowing of his poisonous breath. - afflatu maiore  
+3. The Hydra killed passers by with the greatest blowing of his poisonous breath. - afflatu maximo  
 4. The victims died in great torment. - in cruciatu magno  
-5. The victims died in greater torment. - in crucatio❌ maiore  
-6. The victims died in the greatest torment. - in cruciato❌ maximo   
+5. The victims died in greater torment. - in cruciatu❌ maiore  
+6. The victims died in the greatest torment. - in cruciatu❌ maximo   
 7. Hercules cleaned a great part of the stables. - partem magnam  
 8. Hercules cleaned a greater part of the stables. - partem maiorem  
 9. Hercules cleaned the greatest part of the stables. - partem maximam  
