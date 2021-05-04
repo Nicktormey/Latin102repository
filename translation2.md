@@ -2,10 +2,7 @@
 
 A  
 
-Deianira, 
->uxor Herculis,  ❌
-
-flumen magnum, 
+Deianira, uxor Herculis, flumen magnum, 
 
 >cui nomen Evenus *erat*,   
 
@@ -17,40 +14,55 @@ et centaurum Nessum,
 
 auxilium *rogavit*. 
 
-Hic Deianiram *sublatam* in flumine ipso *uiolare uoluit*. ❌
 
-huc Hercules cum *interuenisset* ❌
+Hic Deianiram 
+> *sublatam* 
 
-et Deianira cum fidem eius *implorasset*, ❌
+in flumine ipso *uiolare uoluit*. ❌
+
+
+huc Hercules 
+>cum *interuenisset* ❌
+
+>et Deianira cum fidem eius *implorasset*, ❌
 
 Nessum sagittis *confixit*.
 
->ille *moriens*,   ❌ 
 
-cum *sciret* sagittas Hydrae Lernaeae felle  ❌
+ille *moriens*,   ❌ 
 
->tinctas magnam vim *habere*,   
+>cum *sciret* 
+>>sagittas 
+>>>Hydrae Lernaeae felle *tinctas* 
 
-sanguinem suum *exceptum* Deianirae *dedit* ❌
+>>magnam vim *habere*,   
 
-et id philtrum *esse dixit*.❌
+sanguinem suum 
+>*exceptum*
+
+Deianirae *dedit* ❌
+
+et 
+>id philtrum *esse*
+
+*dixit*.❌
 
 B  
 
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
-antecedent = flumen - neuter singular - dative - it is dative because it functions as an indirect object❌ within the realative clause  
+antecedent = flumen - neuter singular - dative - it is dative because it tells the reader that the name Evenus belongs to the river❌   
 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
 tranisre is a present active infinitve - I put it in the independent clause because it made sense within the context of the sentence & story.  
 
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
-feminine, accusative, singular, indicative, active -  ❌ **From what verb?**
+feminine, accusative, singular, indicative, active - from sublatus  ❌ **From what verb?**
 
 4. Identify the form of sagittis. Why does Hyginus use this case?  
-sagittis is dative❌ and plural - it is in this case because the arrows are the direct object  
+sagittis is ablative❌ and plural - describes the means in which he pierced  
 
 5. Identify the form of moriens.  
-moriens is a masculine, nominitive, singular, indicative, passive ❌ participle.  
+moriens is a masculine, nominitive, singular, indicative, present active ❌ participle.  
 
 6. Identify felle. Why does Hyginus use this case?  
 felle is a noun in the ablative singular. He uses this case to express that the arrows were dipped *in* the poison    
