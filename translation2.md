@@ -80,14 +80,10 @@ C
 
 Deianira, wife of Hercules, was not able to traverse the large river, which was named Evenus, 
 
-and the centaur Nessus❌, who was the son of Ixion and Nubes, asked to help. 
+asked the centaur Nessus❌, who was the son of Ixion and Nubes, to help. 
 
 He lifted Deianira up in the very same river with the intent to violate her. 
 
 Because of this, Hercules went to this place and intervened, and Deianira begged his trust with tears, and he pierced Nessus with arrows.
 
-Because he knew he was dying, he dipped arrows in the poison of the Lernaean Hydra so that they hold great potentcy. ❌
-
-He gave his blood to Deianira 
-and she received ❌ 
-and he told her it was a love potion.
+As he was dying, because he knew the arrows had been dipped in the poison of the Lernaean Hydra and held great potentcy, he let out some of his blood, and he gave his blood to Deianira ❌ and he told her it was a love potion.
