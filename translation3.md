@@ -45,4 +45,4 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 D. Translation
 
-Hercules cleaned, in one day, the dung from the stall of King Augeas, with Jove helping for a major part; Because the river had been let in, he washed away the dung. Hercules lead the bull, whom Pasiphae had laid with, alive from the island of Crete to Mycenae. He killed Diomedes, King of Thrace, and his four horses, who fed upon human flesh, and the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus.
+Hercules cleaned, in one day, the dung from the stall of King Augeas, with Jove helping for a major part; Because the river had been let in, he washed away all the dung. Hercules lead the bull, whom Pasiphae had laid with, alive from the island of Crete to Mycenae. He killed Diomedes, King of Thrace, and his four horses, who fed upon human flesh, and the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus.
