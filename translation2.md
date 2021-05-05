@@ -56,7 +56,7 @@ antecedent = flumen - neuter singular - dative - it is dative because it tells t
 tranisre is a present active infinitve - I put it in the independent clause because it made sense within the context of the sentence & story.  
 
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
-feminine, accusative, singular, indicative, active - from sublatus  ❌ **From what verb?**
+feminine, accusative, singular, indicative, active - from suffero - urn:cite2:hmt:ls.markdown:n46406  ❌ **From what verb?**
 
 4. Identify the form of sagittis. Why does Hyginus use this case?  
 sagittis is ablative❌ and plural - describes the means in which he pierced  
