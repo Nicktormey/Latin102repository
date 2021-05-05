@@ -30,10 +30,10 @@ third plural present indicative passive - pollicentur
 third plural present subjunctive passive - polliceantur  
 third plural imperfect indicative passive - pollicebantur  
 present infinitive passive - polliceri  
-third plural imperfect subjunctive passive - pollicerintur  ❌
-third plural perfect indicative passive - pollici sunt  ❌
-perfect active passive - pollicitus sum  ❌
-third plural pluperfect subjunctive passive - pollici essent  ❌
+third plural imperfect subjunctive passive - polliceorentur  ❌
+third plural perfect indicative passive - polliceri sunt  ❌
+perfect active passive -  pollicitatus sum  ❌
+third plural pluperfect subjunctive passive - polliceri essent  ❌
 
 *English relative clauses*  
 
