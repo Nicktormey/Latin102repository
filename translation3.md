@@ -42,3 +42,7 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 1. I find Hyginus's use of the verb "*vescebantur*" to be worth looking into. It is the third-person indicative imperfect plural active of *vescor*, meaning both "eat" and "feed upon." I feel that horses actively "feeding upon" human meat is more intimidating than for them to simply "eat" it. This futhers the dangerous nature of Hercules's deed and makes his triumph more impressive. 
 2. The word order of the clause *ex Creta insula Mycenis vivum adduxit* also causes intrigue. I believe that the placement of the adjective *vivum* towards the end of the sentence is done intentionally. This is because *vivum*, the masculine, accusative, singular form of *vivus* reveals that the bull (*taurum*) is alive when brought to Mycenae. Because this is more difficult than simply killing the bull, the magnitude of Hercules's achievment is realized. 
+
+D. Translation
+
+Hercules cleaned, in one day, the dung from the stall of King Augeas, with Jove helping for a major part; Because the river had been let in, he washed away the dung. Hercules lead the bull, whom Pasiphae had laid with, alive from the island of Crete to Mycenae. He killed Diomedes, King of Thrace, and his four horses, who fed upon human flesh, and the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus.
