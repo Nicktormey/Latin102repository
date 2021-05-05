@@ -60,7 +60,7 @@ Herucles, who Juno drove into a fit of madness, killed his own wife Megara.  ❌
 
 *Latin relative clauses*  ❌ **Review after revising translations.**
 
-1. Qui - the brothers, masc. and plu. - nominative because they the subject  
+1. Qui - the brothers, masc. and plu. - nominative because they are the subject  
 2. quem - Eurytion, masc. and sing. - accusative because he's the direct object
 3. cuius  - Eurytion, masc. and sing. - genitive because it articulates possession
 4. qui - Nessus, masc. and sing. - nominative because he is the subject
