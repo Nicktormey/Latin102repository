@@ -27,8 +27,8 @@ third plural pluperfect subjunctive active - dixissent
 polliceor, pollicēri, -, pollicitus: to promise  
 
 third plural present indicative passive - pollicentur  
-third plural present subjunctive passive - polleantur  ❌
-third plural imperfect indicative passive - pollibantur  ❌
+third plural present subjunctive passive - polliceantur  
+third plural imperfect indicative passive - pollicebantur  
 present infinitive passive - polliceri  
 third plural imperfect subjunctive passive - pollicerintur  ❌
 third plural perfect indicative passive - pollici sunt  ❌
