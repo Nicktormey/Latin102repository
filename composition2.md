@@ -1,9 +1,7 @@
-**Needs revisions**
+**Full credit**
 
 
-Cum Deianira, Oenei filia et Herculis uxor, pulchram virginem❌ videret, Iolen, ductam esse, ❌ **We need an indirect statement here.**
-
-coepit machinari ne coniugio privaretur. 
+Cum Deianira, Oenei filia et Herculis uxor, pulchram virginem❌ videret, Iolen, ductam esse, coepit machinari ne coniugio privaretur. 
  
  famulum misit ad vestem sanguine tinctam revocandam centauri, Nessus, quem putabat philtrum esse. 
  
