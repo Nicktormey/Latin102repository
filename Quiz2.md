@@ -20,7 +20,7 @@ third plural present subjunctive active - dicant
 third plural imperfect indicative active - dicebant  
 present infinitive active - dicere  
 third plural imperfect subjunctive active - dicarent  
-third plural perfect indicative active - dicarunt  ❌  
+third plural perfect indicative active - dixirunt  ❌  
 perfect infinitive passive - dixi  
 third plural pluperfect subjunctive active - dixissent  
 
@@ -30,15 +30,15 @@ third plural present indicative passive - pollicentur
 third plural present subjunctive passive - polliceantur  
 third plural imperfect indicative passive - pollicebantur  
 present infinitive passive - polliceri  
-third plural imperfect subjunctive passive - polliceorentur  ❌
-third plural perfect indicative passive - polliceri sunt  ❌
-perfect active passive -  pollicitatus sum  ❌
-third plural pluperfect subjunctive passive - polliceri essent  ❌
+third plural imperfect subjunctive passive - pollicarentur  ❌
+third plural perfect indicative passive - polliciti sunt  ❌
+perfect active passive -  polliceri ❌
+third plural pluperfect subjunctive passive - polliciti essent  ❌
 
 *English relative clauses*  
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.                                                                              
-The brothers, who came to the wedding with Eurytion, were violent centaurs.  ❌ **You've flipped the sentences.  Keep sentence 1 as the independent (main) clause.**
+The brothers, with whom came to the wedding with Eurytion, were violent centaurs.  ❌ **You've flipped the sentences.  Keep sentence 1 as the independent (main) clause.**
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.  
 Dexamenus was afraid of Eurytion, who was promised in marriage to Deanira.  
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.  
@@ -60,7 +60,7 @@ Herucles, who Juno drove into a fit of madness, killed his own wife Megara.  ❌
 
 *Latin relative clauses*  ❌ **Review after revising translations.**
 
-1. Qui - the brothers, masc. and plu. - nominative because they are the subject  
+1. Quibus - the brothers, masc. and plu. - ablative because of the cum clause  
 2. quem - Eurytion, masc. and sing. - accusative because he's the direct object
 3. cuius  - Eurytion, masc. and sing. - genitive because it articulates possession
 4. qui - Nessus, masc. and sing. - nominative because he is the subject
