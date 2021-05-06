@@ -1,7 +1,7 @@
 **Needs revisions**
 
 
-Cum Deianira, Oenei filia et Herculis uxor, pulchram virgineme❌ videret, Iole, ducebatur, ❌ **We need an indirect statement here.**
+Cum Deianira, Oenei filia et Herculis uxor, pulchram virginem❌ videret, Iolen, ductam esse, ❌ **We need an indirect statement here.**
 
 coepit machinari ne coniugio privaretur. 
  
