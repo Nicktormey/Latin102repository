@@ -24,17 +24,17 @@ equorum autem *nomina* Podargus Lampon Xanthus Dinus.
 B. Grammatical questions  
 
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase  
-Iove is ablative. Participle
+Iove is ablative - Ablative absolute.
 2. What case is stercus, and why is it in that case?  
 accusative because it is what is physically being washed.  
 3. Identify the form of the adjective maiorem (gender, case, number, degree).  
-feminine, accusative, singular, greater  
+feminine, accusative, singular, comparative 
 4. Explain the construction of the verbal unit flumine admisso.  
-flumine is ablative, and admisso is an ablative participle, so "let in the river"
+flumine is ablative, and admisso is an ablative absolute
 5. What are the gender, number, case, and antecedent of qui?   
 masculine, plural, nominative, and equos  
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?  
-*nomina*, as it shows that the horses names are what is being listed.   
+*erant*, because it is listing what the horses names are.   
 
 C. Literary commentary  
 
@@ -45,4 +45,4 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 
 D. Translation
 
-Hercules cleaned, in one day, the dung from the stall of King Augeas, with Jove helping for a major part; Because the river had been let in, he washed away all the dung. Hercules lead the bull, whom Pasiphae had laid with, alive from the island of Crete to Mycenae. He killed Diomedes, King of Thrace, and his four horses, who fed upon human flesh, and the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus.
+Hercules cleaned, in one day, the dung from the stall of King Augeas, with Jove helping for a major part; Because the river had been let in, he washed away all the dung. Hercules lead the bull, whom Pasiphae had laid with, alive from the island of Crete to Mycenae. He killed Diomedes, King of Thrace, and his four horses, who fed upon human flesh, and the slave Abderus. The names of the horses were Podargus, Lampon, Xanthus, and Dinus.
