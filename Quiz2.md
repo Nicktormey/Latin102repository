@@ -64,9 +64,9 @@ Herucles, who Juno drove into a fit of madness, killed his own wife Megara.  ❌
 2. qui - Eurytion, masc. and sing. - nominative because he is the subject
 3. cuius  - Eurytion, masc. and sing. - genitive because it articulates possession
 4. quem - Nessus, masc. and sing. - accusative because he is the direct object
-5. quae - the vial, fem. and sing. - nominative because it is the subject
+5. quo - the vial, n. and sing. - ablative because the vial is the means
 6. qui - Busiris, masc. and sing. - nominative because he is the subject
 7. quam - eagle, fem. and sing. - accusative because it is the direct object
-8. quem - Lycus, masc. and sing. - accusative because he is the direct object
-9. quem - Hercules, masc. and nom. - accusative because he is the direct object
+8. qui - Lycus, masc. and sing. - nominative because he is the subject
+9. cui - Hercules, masc. and nom. - dative because he is the direct object
 10. quem - Hercules, masc. and nom. - accusative because he is the direct object  
