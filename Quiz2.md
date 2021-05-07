@@ -61,12 +61,12 @@ Herucles, who Juno drove into a fit of madness, killed his own wife Megara.  ❌
 *Latin relative clauses*  ❌ **Review after revising translations.**
 
 1. Quibus - the brothers, masc. and plu. - ablative because of the cum clause  
-2. quem - Eurytion, masc. and sing. - accusative because he's the direct object
+2. qui - Eurytion, masc. and sing. - nominative because he is the subject
 3. cuius  - Eurytion, masc. and sing. - genitive because it articulates possession
-4. qui - Nessus, masc. and sing. - nominative because he is the subject
+4. quem - Nessus, masc. and sing. - accusative because he is the direct object
 5. quae - the vial, fem. and sing. - nominative because it is the subject
 6. qui - Busiris, masc. and sing. - nominative because he is the subject
 7. quam - eagle, fem. and sing. - accusative because it is the direct object
 8. quem - Lycus, masc. and sing. - accusative because he is the direct object
-9. qui - Hercules, masc. and nom. - nominative because he is the subject
-10. qui - Hercules, masc. and nom. - nominative because he is the subject  
+9. quem - Hercules, masc. and nom. - accusative because he is the direct object
+10. quem - Hercules, masc. and nom. - accusative because he is the direct object  
