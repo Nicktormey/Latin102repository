@@ -32,7 +32,8 @@ huc Hercules
 Nessum sagittis *confixit*.
 
 
-ille *moriens*,   ❌ **The participle is a separate verbal unit**
+ille 
+>*moriens*,   ❌ **The participle is a separate verbal unit**
 
 >cum *sciret* 
 
