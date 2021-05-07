@@ -38,7 +38,7 @@ third plural pluperfect subjunctive passive - polliciti essent  ❌
 *English relative clauses*  
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.                                                                              
-The brothers, with whom came to the wedding with Eurytion, were violent centaurs.  ❌ **You've flipped the sentences.  Keep sentence 1 as the independent (main) clause.**
+The brothers, with whom Eurytion came to the wedding, were violent centaurs.  ❌ **You've flipped the sentences.  Keep sentence 1 as the independent (main) clause.**
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.  
 Dexamenus was afraid of Eurytion, who was promised in marriage to Deanira.  
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.  
