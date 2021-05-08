@@ -5,10 +5,12 @@ A. Grammatical analysis
 
 Augeae regis stercus bobile uno die *purgavit*, 
 
->maiorem partem ❌ **This is part of a main clause.**
+maiorem partem ❌ **This is part of a main clause.**
 > Iove *adiutore*; 
 
-flumine admisso totum stercus *abluit*. ❌ **There are 2 verbal units here.**
+>flumine admisso  
+
+totum stercus *abluit*. ❌ **There are 2 verbal units here.**
 
 
 taurum 
