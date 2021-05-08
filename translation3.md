@@ -1,10 +1,14 @@
+**Needs minor revision in grammatical analysis**
+**Very nice translation!**
+
 A. Grammatical analysis  
 
 Augeae regis stercus bobile uno die *purgavit*, 
->maiorem partem
+
+>maiorem partem ❌ **This is part of a main clause.**
 > Iove *adiutore*; 
 
-flumine admisso totum stercus *abluit*.
+flumine admisso totum stercus *abluit*. ❌ **There are 2 verbal units here.**
 
 
 taurum 
@@ -36,7 +40,7 @@ masculine, plural, nominative, and equos
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?  
 *erant*, because it is listing what the horses names are.   
 
-C. Literary commentary  
+C. Literary commentary   **Nice observations!**
 
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
