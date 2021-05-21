@@ -1,4 +1,4 @@
-**Needs minor revisions**
+**Full credit**
 
 *Dictionary skills, 1: noun-adjective pairs*
 
